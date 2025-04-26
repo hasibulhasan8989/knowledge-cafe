@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Mastering JavaScript in 30 Days",
+      "cover": "https://i.ibb.co.com/tpRHBs2S/5396346.jpg",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/2YWkGbmC/brunette-business-woman-with-wavy-long-hair-blue-eyes-stands-holding-notebook-hands.jpg",
+      "posted_date": "2025-04-20",
+      "reading_time": 8,
+      "hashtags": ["#JavaScript", "#WebDevelopment", "#Coding"]
+    },
+    {
+      "id": 2,
+      "title": "The Future of AI: What to Expect",
+      "cover": "https://i.ibb.co.com/whrxSY1r/woman-influencer-presenting-yellow-book-front-recording-smartphone-similing-content-creator-broadcas.jpg",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/8LjRR4Xn/businesswoman-posing.jpg",
+      "posted_date": "2025-04-18",
+      "reading_time": 6,
+      "hashtags": ["#AI", "#MachineLearning", "#FutureTech"]
+    },
+    {
+      "id": 3,
+      "title": "Designing for Accessibility",
+      "cover": "https://i.ibb.co.com/Q3M8JV5d/aerial-view-computer-laptop-wooden-table-photography-hobby-concept.jpg",
+      "author": "Amina Khan",
+      "author_img": "https://i.ibb.co.com/2YWkGbmC/brunette-business-woman-with-wavy-long-hair-blue-eyes-stands-holding-notebook-hands.jpg",
+      "posted_date": "2025-04-15",
+      "reading_time": 7,
+      "hashtags": ["#UX", "#Accessibility", "#Design"]
+    },
+    {
+      "id": 4,
+      "title": "Understanding Blockchain Beyond Crypto",
+      "cover": "https://i.ibb.co.com/svGKpHF4/2204-i105-003-S-m005-c13-ismetric-journalist-copywriter-blogger-horizontal-illustration.jpg",
+      "author": "Liam Nguyen",
+      "author_img": "https://i.ibb.co.com/8LjRR4Xn/businesswoman-posing.jpg",
+      "posted_date": "2025-04-10",
+      "reading_time": 9,
+      "hashtags": ["#Blockchain", "#TechTrends", "#Innovation"]
+    },
+    {
+      "id": 5,
+      "title": "How to Stay Productive as a Remote Developer",
+      "cover": "https://i.ibb.co.com/tpyp0h2H/4782178.jpg",
+      "author": "Emily Zhang",
+      "author_img": "https://i.ibb.co.com/2YWkGbmC/brunette-business-woman-with-wavy-long-hair-blue-eyes-stands-holding-notebook-hands.jpg",
+      "posted_date": "2025-04-08",
+      "reading_time": 5,
+      "hashtags": ["#RemoteWork", "#Productivity", "#DevLife"]
+    }
+  ]
+  
